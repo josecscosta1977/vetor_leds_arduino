@@ -8,6 +8,6 @@
   <li>Protoboard</li>
 </ul>  
 
-<img src="">  
+<img src="https://github.com/josecscosta1977/vetor_leds_arduino/blob/master/vetor_leds.PNG?raw=true">  
 <h2>README em desenvolvimento...</h2>
 
