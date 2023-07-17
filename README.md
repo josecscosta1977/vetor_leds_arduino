@@ -13,7 +13,7 @@ Arduino é uma plataforma de prototipação eletrônica (para testes e projetos 
 Após o download da IDE Arduino, instale-o e conecte a placa Arduino ao usb do computador. Configure a placa (ferramentas/placas) e a porta (ferramentas/porta serial) que será usada.
 
 ## Materiais
-<ul>
+
   * Placa Arduino Uno
   * 5 resistores de 330 ohms
   * 5 leds
